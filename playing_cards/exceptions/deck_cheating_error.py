@@ -1,0 +1,4 @@
+class DeckCheatingError(Exception):
+    pass
+
+
